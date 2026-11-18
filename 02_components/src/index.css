@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.card{
+    margin: 20px;
+    background: pink;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.nav{
+    background: blueviolet;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
